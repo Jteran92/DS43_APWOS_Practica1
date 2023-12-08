@@ -1,0 +1,355 @@
+#link1{
+    list-style: none;
+    color: rgb(84, 165, 199);
+}
+#link2{
+    list-style: none;
+    color: rgb(208, 85, 101);
+}
+#link3{
+    list-style: none;
+    color: rgb(84, 165, 199);
+}
+#link4{
+    list-style: none;
+    color: rgb(208, 85, 101);
+}
+#link5{
+    list-style: none;
+    color: rgb(84, 165, 199);
+}
+
+#Imagen{
+    background-image: url('https://i.ytimg.com/vi/1YBsU5LGeOs/maxresdefault.jpg');
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+#nav{
+    background-color: rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
+}
+#Logo{
+    color: #0292e0;
+}
+#Rojotxt{
+    color: rgb(23, 22, 22);
+
+}
+#txtNegro{
+    color: rgb(26, 25, 25);
+}
+#InfoInicio{
+    text-align: justify;
+
+}
+#textoBlanco{
+    color: rgb(255, 255, 255);
+    width: 380px;
+}
+#Fila1{
+    background-color:#66C4A9;
+}
+#Fila2{
+    background-color:#66C4A9;
+}
+#Fila3{
+    background-image: url('https://esports.as.com/2020/06/03/pokemon-espada-y-escudo/Mapa-Isla-Armadura_1360973891_401662_1440x810.jpg');
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    color: #0e0921;
+}
+#RegionesPokemon{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/7/72/Gengar_face.png');
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+#Fila4{
+    background-image: url('https://cdn.wallpapersafari.com/95/47/nLqXKl.jpg');
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+#Fila5{
+    background-image: url('https://pokecompany.com/wp-content/uploads/2020/01/P23-398.jpg');
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+#Fila6{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/014/022/430/original/pokemon-starters-faces-free-vector.jpg');
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+
+#EspeciesPokemon{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/014/022/430/original/pokemon-starters-faces-free-vector.jpg');
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+#Fila8{
+    background-color: #38254c   ;
+    color: rgb(255, 255, 255);
+}
+#dosColumnas {
+    column-count: 2;
+    list-style: none;
+    border-right: 1px solid #878787;
+}
+#borde2 {
+    border-right: 1px solid #878787;
+}
+#Fila9{
+    background-color: #38254c;
+    color: rgb(255, 255, 255);
+    border-bottom: 1px solid #878787;
+}
+
+
+#cardM{
+    background-color:	rgb(147,112,219);
+}
+#cardV{
+    background-color:	rgb(255, 255, 255) ;
+}
+#cardM{
+    background-color:	rgb(255, 255, 255) ;
+}
+#textAmarillo{
+    color: rgb(189,183,107);
+}
+#textAmarillo1{
+    color: rgb(189,183,107);
+}
+#textAmarillo2{
+    color: rgb(189,183,107);
+}
+#textAmarillo2{
+    color: rgb(189,183,107);
+}
+#tituloKanto{
+    color: rgb(189,183,107);
+    
+}
+#SubTituloKanto{
+    color: rgb(0,0,0);
+}
+#cardKanto1{
+    display: flex;
+  justify-content: center; 
+  align-items: center; 
+  background-color: #00b4cc; 
+
+}
+#cardKanto2{
+    display: flex;
+  justify-content: center; 
+  align-items: center;
+  background-color: #00b4cc; 
+
+}
+#txtKcard1{
+    color: rgb(0,0,0);
+}
+#txtKcard2{
+    color: rgb(0,0,0);
+}
+#btnlapras{
+    background-color: #ffeb7a;
+
+}
+#cardJohto1{
+    display: flex;
+  justify-content: center; 
+  align-items: center; 
+  background-color: #005f6b; 
+
+}
+#cardJohto2{
+    display: flex;
+  justify-content: center; 
+  align-items: center;
+  
+  background-color: #005f6b; 
+
+}
+#txtJcard1{
+    color: #000000;
+}
+#txtJcard2{
+    color: #000000;
+}
+#cano{
+    background-color:#66C4A9;
+    border-style: none;
+
+}
+#1008{
+    color: #000000;
+    align-items: center;
+}
+#btnsnorlax{
+    background-color:#fecea8;
+
+}
+#cardHoenn1{
+    display: flex;
+  justify-content: center; 
+  align-items: center; 
+  background-color: rgb(70,130,180); 
+
+}
+#cardHoenn2{
+    display: flex;
+  justify-content: center; 
+  align-items: center;
+  
+  background-color:rgb(70,130,180); 
+
+}
+#txtHcard1{
+    color: #000000;
+}
+#txtHcard2{
+    color: #000000;
+}
+#btnswampert{
+    background-color:#f8a348;
+
+}
+#Especies1{
+    background-color:#FAB067;
+
+}
+#Especies2{
+    background-color:#FAB067;
+
+}
+#Especies3{
+    background-color:#66C4A9;
+
+}
+#Especies4{
+    background-color:#66C4A9;
+
+}
+#Especies5{
+    background-color:#4DC8F1;
+
+}
+#Especies6{
+    background-color:#4DC8F1;
+
+}
+#textIBS{
+    text-align: center;
+
+}
+#CartaHabilidades{
+    text-align: center;
+
+}
+#CartaEspecies{
+    text-align: center;
+
+}
+#CartaMegaE{
+    text-align: center;
+
+}
+#CartaObjeto{
+    text-align: center;
+
+}
+.card-element{
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+
+}
+.card-element-middle{
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+    
+}
+#Eevee1{
+    background-color:#D1A473;
+}
+#Eevee{
+    background-color:#D1A473;
+}
+#Fila1Eevee{
+    background-color:#D1A473 ;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    
+}
+#EspeciesEevee{
+   background-color: #D1A473;
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+#vaporeon{
+    background-color:#76C8DE;
+    
+}
+#jolteon{
+    background-color:#F6D16E;
+}
+#flareon{
+    background-color: #ED814D;
+}
+#espeon{
+    background-color: #D8BACD;
+}
+#umbreon{
+    background-color: #485051;
+}
+#leafeon{
+    background-color: #77C79C;
+}
+#glaceon{
+    background-color: #518F9E;
+}
+#sylveon{
+    background-color: #EF9AAB;
+}
+.card-elementeevee{
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+    border-radius: 100%;
+
+}
+.card-element-middleevee{
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+    
+}

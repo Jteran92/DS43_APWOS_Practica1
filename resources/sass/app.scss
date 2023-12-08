@@ -1,0 +1,48 @@
+// Fonts
+.btn-azul {
+    
+    background-color: rgb(1, 163, 114);
+    border: none;
+    border-radius: 10px; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer;
+    color: #fdfeff;  
+}
+
+.texto-grande{
+    font-size: 60px;
+    font-style: oblique;
+     
+}
+
+.grande{
+    font-size: 160px;
+    font-style: italic;
+     
+}
+
+.cuerpo {
+    background-color: teal;
+    color: white;
+  }
+
+#color-sugerencias {
+    background-color: rgb(4, 82, 82);
+    color: white;
+  }
+
+#centrado {
+  text-align: center;
+  align-items: center;
+  
+
+}
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
